@@ -1,6 +1,6 @@
 # CD Inventory
 
-Created a CD Inventory with menu structure using Object Oriented Programming
+Created a 2D-structure CD Inventory with menu using Object Oriented Programming
 ```
 Menu
 [l] load Inventory from file
